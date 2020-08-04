@@ -1,0 +1,2 @@
+# AddMethod
+Imprement Add method
